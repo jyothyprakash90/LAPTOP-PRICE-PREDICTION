@@ -11,8 +11,8 @@ This project predicts laptop prices based on specifications such as brand, RAM, 
 ## How to Run the App
 1. Install libraries:
    pip install -r requirements.txt
-2. Run Streamlit:
-   streamlit run app.py
+2. Run the Flask application:
+   python app.py
 
 ## Model Performance
 - R2 Score: 0.99
